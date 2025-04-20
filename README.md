@@ -12,6 +12,14 @@ A 3D model viewer built with OpenGL that allows you to load and interact with 3D
 - **Auto-Focus**: Automatically adjust the camera to focus on the loaded model
 - **Performance Metrics**: Display real-time rendering statistics
 
+## Demo:
+https://github.com/user-attachments/assets/80c5f53d-b024-405a-9267-e980b6cf9467
+
+### Speed comparison Microsoft's 3D Viewer mor than 4 seconds to load, OpenGL Model viewer less than 1 second.
+https://github.com/user-attachments/assets/53ac03ad-00a9-4fe6-8e11-a7dbcaa0d780
+
+
+
 ## Controls
 
 - **WASD**: Move camera horizontally
@@ -69,3 +77,5 @@ The application displays model statistics in the window title bar, including:
 - Vertex count
 - Triangle count
 - Camera movement speed
+
+Default Backpack model from https://sketchfab.com/3d-models/survival-guitar-backpack-799f8c4511f84fab8c3f12887f7e6b36
