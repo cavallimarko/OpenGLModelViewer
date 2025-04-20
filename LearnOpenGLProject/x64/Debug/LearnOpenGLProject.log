@@ -1,0 +1,50 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LearnOpenGLProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ModelViewer.cpp
+C:\Users\Marko\Desktop\OpenGLLearning\LearnOpenGL\OpenGLModelViewer\LearnOpenGLProject\Mesh.h(34,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Marko\Desktop\OpenGLLearning\LearnOpenGL\OpenGLModelViewer\LearnOpenGLProject\Mesh.h(35,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Marko\Desktop\OpenGLLearning\LearnOpenGL\OpenGLModelViewer\LearnOpenGLProject\Model.h(27,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Marko\Desktop\OpenGLLearning\LearnOpenGL\OpenGLModelViewer\Includes\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+C:\Users\Marko\Desktop\OpenGLLearning\LearnOpenGL\OpenGLModelViewer\LearnOpenGLProject\ModelViewer.cpp(229,28): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Marko\Desktop\OpenGLLearning\LearnOpenGL\OpenGLModelViewer\LearnOpenGLProject\ModelViewer.cpp(272,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko\Desktop\OpenGLLearning\LearnOpenGL\OpenGLModelViewer\LearnOpenGLProject\ModelViewer.cpp(290,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2541,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\Marko\Desktop\OpenGLLearning\LearnOpenGL\OpenGLModelViewer\LearnOpenGLProject\ModelViewer.cpp(71): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Marko\Desktop\OpenGLLearning\LearnOpenGL\OpenGLModelViewer\LearnOpenGLProject\ModelViewer.cpp(71): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  LearnOpenGLProject.vcxproj -> C:\Users\Marko\Desktop\OpenGLLearning\LearnOpenGL\OpenGLModelViewer\x64\Debug\OpenGLModelViewerProject.exe
